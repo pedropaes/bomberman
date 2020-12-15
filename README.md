@@ -7,4 +7,4 @@ Na parte gráfica(Tarefa5) foi usado o módulo **gloss**.
 # Screenshot
 
 ### Janela do Jogo
-![Index Page](screen.jpg)
+![Index Page](screen.png)
