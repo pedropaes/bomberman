@@ -1,6 +1,7 @@
 # Bomberman
 
-Projeto da cadeira **LI1** onde foi recriado o jogo **Bomberman** usando *Haskell*
+Projeto da cadeira **LI1** onde foi recriado o jogo **Bomberman** usando *Haskell*.
+
 Na parte gráfica(Tarefa5) foi usado o módulo **gloss**.
 
 # Screenshot
